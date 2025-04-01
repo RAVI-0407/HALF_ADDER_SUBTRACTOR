@@ -77,6 +77,7 @@ endmodule
 ```
 
 **RTL Schematic**
+
   **Half-Adder**
 
   ![image](https://github.com/user-attachments/assets/33a3eec0-019c-4f4c-b155-cd3d16517c50)
